@@ -1,0 +1,19 @@
+{
+  "name": "mi-primer-ejercicio",
+  "version": "1.0.0",
+  "description": "mi primer ejercicio de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "primer_ejercicio": "node primer_ejercicio.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "primer",
+    "ejercicio",
+    "de",
+    "Js"
+  ],
+  "author": "Henry G.",
+  "license": "ISC"
+}
